@@ -17,6 +17,9 @@ module.exports = {
         'python/dictionaries-in-python',
         'python/file-handling-reading-and-writing-files',
         'python/exception-handling',
+        'python/object-oriented-programming-classes-and-objects',
+        'python/inheritance-polymorphism-abstraction-and-encapsulation',
+        'python/python-project-ideas',
       ],
     },
     {
