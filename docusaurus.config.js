@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My DIV Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DIV Club Inc.`,
       },
       prism: {
         theme: prismThemes.github,
