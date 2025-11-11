@@ -24,16 +24,6 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Java',
-      items: ['java/java/intro'],
-    },
-    {
-      type: 'category',
-      label: 'Web Development',
-      items: ['web development/webdev/intro'],
-    },
-    {
-      type: 'category',
       label: 'Tutorial Basics',
       items: [
         'tutorial-basics/congratulations',
